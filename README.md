@@ -26,15 +26,15 @@ ANSWER
 
 List branches
 
-ANSWER
+ANSWER    BRANCH
 
 Change branches
 
-ANSWER
+ANSWER   checkout name
 
 Merge branches
 
-ANSWER
+ANSWER   merge files together
 
 Handle conflicts
 
